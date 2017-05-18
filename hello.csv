@@ -1,6 +1,7 @@
 name,isNew,description,quadrant,ring
+eName,False,eDescription,dQuad,bRing
 aName,False,aDescription,aQuad,aRing
 bName,False,bDescription,bQuad,aRing
 cName,True,cDescription,cQuad,aRing
 dName,False,dDescription,dQuad,aRing
-eName,False,eDescription,dQuad,bRing
+
