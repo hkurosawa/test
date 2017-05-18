@@ -1,4 +1,4 @@
-name,isNew,description,quadrant,ring"
+name,isNew,description,quadrant,ring
 aName,False,aDescription,aQuad,aRing
 bName,False,bDescription,bQuad,aRing
 cName,True,cDescription,cQuad,aRing
