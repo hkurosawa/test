@@ -1,6 +1,6 @@
 name,isNew,description,quadrant,ring
-eName,False,e Description,dQuad,採用
-aName,False,a Description,aQuad,注目
+"e Name",False,e Description,dQuad,採用
+"項目 a Name",False,"a Description",aQuad,注目
 bName,False,b Description,bQuad,注目
 eName,False,e Description,dQuad,検証
 cName,True,c Description,cQuad,撤退
