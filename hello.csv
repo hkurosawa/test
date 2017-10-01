@@ -1,9 +1,9 @@
 name,isNew,description,quadrant,ringa
-eName,False,eDescription,dQuad,採用
-aName,False,aDescription,aQuad,注目
-bName,False,bDescription,bQuad,注目
-eName,False,eDescription,dQuad,検証
-cName,True,cDescription,cQuad,撤退
-dName,False,dDescription,dQuad,採用
-eName,False,eDescription,dQuad,注目
+eName,False,e Description,dQuad,採用
+aName,False,a Description,aQuad,注目
+bName,False,b Description,bQuad,注目
+eName,False,e Description,dQuad,検証
+cName,True,c Description,cQuad,撤退
+dName,False,d Description,dQuad,採用
+eName,False,e Description,dQuad,注目
 項目名,True,項目の説明です,dQuad,採用
